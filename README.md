@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bm-vip
-- 👀 I’m interested in programming, especially in the Java language and related technologies. And I have experinces on difference domains like Fintech, Banking, Smart police, Civil registration, Hospital information system, and logistic domain.
+- 👀 I’m interested in programming, especially in Java language and related technologies.
 - 🌱 I’m currently learning big data and cloud architechture.
 - 💞️ I’m looking to collaborate on IT companies.
 - 📫 How to reach me: 
