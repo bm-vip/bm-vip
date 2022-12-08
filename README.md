@@ -15,13 +15,6 @@
 
 - 📫 How to reach me **behrooz.mohamadi.66@gmail.com**
 
-## Statistics
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=bm-vip&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bm-vip&theme=radical">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/behrooz-mohamadi-83135679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/behrooz-mohamadi-83135679" height="30" width="40" /></a>
