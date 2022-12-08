@@ -1,4 +1,4 @@
-[![MasterHead](./fullstack.gif)](https://www.linkedin.com/in/behrooz-mohamadi-83135679)
+![MasterHead](./fullstack.gif {width=800px})(https://www.linkedin.com/in/behrooz-mohamadi-83135679)
 <h1 align="center">Hi 👋, I'm Behrooz Mohamadi</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
