@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Java, PLSQL, .Net, Javascript, Angular, Android, Docker**
+- 💬 Ask me about **Java, PLSQL, .Net, jQuery, Angular, Android, Docker, Elastic search**
 
 - 📫 How to reach me **behrooz.mohamadi.66@gmail.com**
 
