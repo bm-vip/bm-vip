@@ -1,6 +1,6 @@
 [![MasterHead](./fullstack.gif)](https://www.linkedin.com/in/behrooz-mohamadi-83135679)
 <h1 align="center">Hi 👋, I'm Behrooz Mohamadi</h1>
-<h3 align="center">A passionate fullstack developer from Tehran,Iran</h3>
+<h3 align="center">A passionate fullstack developer from Istanbul, Turkey</h3>
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
 <br/>
 - 🔭 I’m currently working on ([https://extratik.com](Extratik))
