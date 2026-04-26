@@ -82,6 +82,7 @@
 <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
 </tr>
+<tr> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td></tr>
 </table>
 
 [Behrooz's GitHub activity graph](https://github.com/bm-vip)
