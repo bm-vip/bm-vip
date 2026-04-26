@@ -20,12 +20,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <table>
+    <tr>
+<td>
 <a href="https://www.linkedin.com/in/behrooz-mohamadi-83135679" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+</td>
+      <td>
 <a href="https://stackoverflow.com/users/1423304/behroooz" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
+      </td>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,6 +54,7 @@
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/></td>
