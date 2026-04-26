@@ -32,6 +32,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
       </td>
+    </tr>
+  </table>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
